@@ -1,0 +1,16 @@
+{
+  "v": "2",
+  "ps": "baidu.com",
+  "add": "baidu.com",
+  "port": "443",
+  "id": "uuid",
+  "aid": "0",
+  "scy": "auto",
+  "net": "h2",
+  "type": "none",
+  "host": "baidu.com",
+  "path": "/path",
+  "sni": "baidu.com",
+  "alpn": "h2",
+  "tls": "tls"
+}
